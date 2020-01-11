@@ -1,4 +1,4 @@
-Real time plot audio wave by speaking to the microphone
+# MATLAB Real time plot audio wave
 
 %     Optional Input: 
 %     fs         Sampling frequency (Hz). Default is 16k.
