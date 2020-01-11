@@ -1,5 +1,5 @@
 # MATLAB Real time plot audio wave
-
+# you can use p code to run Real-Time
 %     Optional Input: 
 %     fs         Sampling frequency (Hz). Default is 16k.
 %     showTimes  Show signal (sec). Default is 3 sec.
