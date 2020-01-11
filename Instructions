@@ -1,0 +1,6 @@
+Real time plot audio wave by speaking to the microphone
+
+%     Optional Input: 
+%     fs         Sampling frequency (Hz). Default is 16k.
+%     showTimes  Show signal (sec). Default is 3 sec.
+%     Mode       0 is not output audio files.  1 is output audio files in showTimes. 
